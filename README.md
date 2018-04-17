@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/voryx/PgAsync.svg?branch=master)](https://travis-ci.org/voryx/PgAsync)
-# PgAsync
+# PgAsync (GoAvio)
 Asynchronous Reactive Postgres Library for PHP (Non-blocking)
 
 ## What it is
