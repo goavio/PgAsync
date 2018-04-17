@@ -8,7 +8,7 @@ class Terminate implements CommandInterface
 
     public function encodedMessage(): string
     {
-        return "X\0\0\0\x04";
+        return "3\0\0\0\x04";
     }
 
     public function shouldWaitForComplete(): bool
